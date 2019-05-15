@@ -16,7 +16,6 @@ Max72xxPanel matrix = Max72xxPanel(pinCS, numberOfHorizontalDisplays, numberOfVe
 // analog
 const int audio_in = PB1;
 
-
 void setup() {
   // put your setup code here, to run once:
   #ifdef debug
